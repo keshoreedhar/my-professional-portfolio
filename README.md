@@ -1,4 +1,4 @@
-# Kesoree Dhar: Design Portfolio (A collection of my learning projects, graphic designs and technical work.)
+# Kesoree Dhar: Design Portfolio
 
 B.Sc. Computer Science student from Kolkata. I design posters, logos and
 promotional material in Canva, and I am building my skills in Excel,
