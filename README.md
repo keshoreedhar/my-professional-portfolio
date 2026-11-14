@@ -35,7 +35,7 @@ Advertisement for school tuition and drawing classes, in a colourful,
 child-friendly style with a clear schedule and contact details.
 Made in Canva.
 
-## 6. Algorythm'26 / Nabasrijan Logo
+## 6. Algorythm'26 - Nabasrijan Logo
 ![Circular logo](algorythm-nabasrijan-logo.png)
 Circular event logo with Bengali lettering on a curved path over a
 floral pattern. Made in Canva.
